@@ -1,6 +1,6 @@
 # CloudCraft
 
-Welcome to my Blog.
+Welcome to my Blog!
 
 Cheers, 
 
